@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 User-agent: *
 Allow: /
+=======
+User-agent: *
+Allow: /
+>>>>>>> dc89ab14eb64d960e17cc4795227c9549643d697
 Sitemap: https://hospitalbns.com/sitemap.xml

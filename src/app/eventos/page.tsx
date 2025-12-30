@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 'use client';
 import '../page.css';
 import { useLanguage } from '../Context/LanguageContext';
@@ -253,3 +254,16 @@ const EventoCard = ({language, evento, mensaje, url}: EventCardProps)=>{
         </div>
     )
 }
+=======
+import '../page.css';
+
+const Proximamente = ()=>{
+
+    return(
+        <div style={{width: "100vw", height:"100vh", alignContent:"center", textAlign:"center", color:"#888", fontSize:"30px"}}>
+            <div style={{width: "80%", margin:"auto"}}>Proximamente tendremos mejoras para ti!</div>
+        </div>
+    )
+}
+export default Proximamente;
+>>>>>>> dc89ab14eb64d960e17cc4795227c9549643d697
